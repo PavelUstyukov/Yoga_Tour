@@ -1,0 +1,165 @@
+.header {
+  height: 829px;
+  background: url("../img/header.jpg") no-repeat center;
+  color: white;
+}
+
+.header_logo {
+  padding: 20px;
+  text-align: center;
+}
+
+.number {
+  text-align: right;
+}
+
+.yoga_tour {
+  margin-top: 150px;
+  text-align: center;
+}
+
+.yoga_main__title {
+  font-size: 60px;
+  margin-bottom: 45px;
+}
+
+.yoga_tour__subtitle {
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.yoga_tour__subtitle2 {
+  font-size: 16px;
+  margin-bottom: 100px;
+}
+
+.yoga_main__button {
+  border: solid 2px white;
+  padding: 10px;
+  width: 300px;
+  height: 60px;
+  color: white;
+  background-color: transparent;
+}
+
+.yoga_tour-about {
+  height: 590px;
+  background: #f8f2e4;
+  padding-top: 50px;
+}
+
+.tour-about_title {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 48px;
+  margin-bottom: 46px;
+}
+
+.tour-about_suptitle {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.tour-about_text {
+  width: 400px;
+}
+
+.tour-about_features ul {
+  padding: 0;
+  margin-top: 40px;
+}
+
+.tour-about_features li {
+  list-style-type: none;
+  margin-bottom: 20px;
+}
+
+.about_featute-text {
+  text-transform: uppercase;
+  margin-left: 21px;
+}
+
+.block3_title {
+  text-align: center;
+  margin-top: 80px;
+}
+
+.figure {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 70px;
+}
+
+.feature {
+  text-align: center;
+}
+
+.feature p {
+  width: 250px;
+  margin: auto;
+}
+
+.slider_title {
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 20px;
+  padding-top: 80px;
+}
+
+.slider_section {
+  background: #f8f2e4;
+  height: 490px;
+}
+
+.slider_item {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 30px 0 30px;
+}
+
+.slick-track {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.slick-active img {
+  height: 530px;
+}
+
+.timetable {
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 20px;
+  padding-top: 80px;
+}
+
+.timetable_title {
+  margin-top: 190px;
+}
+
+.time_card {
+  background: #f8f2e4;
+  height: 180px;
+  margin-bottom: 20px;
+}
+
+.button_lead {
+  width: 180px;
+  height: 40px;
+  border: solid 2px #e28234;
+  background-color: #fff8e6;
+  color: #e28234;
+  margin-top: 20px;
+}
+
+.button_lead:hover {
+  background-color: #e28234;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
