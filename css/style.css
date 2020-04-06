@@ -1,4 +1,9 @@
-.header {
+@import url("../font/stylesheet.css");
+body {
+  font-family: Muller;
+}
+
+body .header {
   height: 829px;
   background: url("../img/header.jpg") no-repeat center;
   color: white;
